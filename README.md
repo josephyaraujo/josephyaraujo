@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5b89b9&height=120&section=header"/>
 <p align="center">
-  <h1 align="center">Bem vindo ao perfil do <a href="https://github.com/MrBlueBird2">Josephy Araújo</a>👋</h1>
+  <h1 align="center">Bem vindo ao perfil do <a href="https://github.com/josephyaraujo">Josephy Araújo</a>👋</h1>
+<!--     <h1 align="center">Bem vindo ao perfil do <a href="https://github.com/josephyaraujo">Josephy Araújo</a>👋</h1> -->
+<!--     caso queira mudar a cor da letra do nome -->
+
+
 </p>
 <!-- <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" min-width="400px" max-width="400px" width="400px" align="right"> -->
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
@@ -15,6 +19,7 @@
   🎓 Farmácia - UFRN | 2015 <br>
 </p>
 
+<!-- sempre que quiser adicionar uma stack nova é só colocar aqui, obs: não deixe espaço depois da virgula pq ele n funciona -->
 <p align="left">
   <h3>  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <strong>Ferramentas e Tecnologias: </strong> </h3>
   <div style= "display: inline" >
