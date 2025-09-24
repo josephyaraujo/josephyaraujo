@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5b89b9&height=120&section=header"/>
 <p align="center">
-  <h1 align="center">Oi!<a href="https://github.com/josephyaraujo"> Eu sou Josephy Araújo</a>👋</h1>
+  <h1 align="center">Oi! Eus sou<a href="https://github.com/josephyaraujo">Josephy Araújo</a>👋</h1>
 <!--     <h1 align="center">Bem vindo ao perfil do <a href="https://github.com/josephyaraujo">Josephy Araújo</a>👋</h1> -->
 <!--     caso queira mudar a cor da letra do nome -->
 
